@@ -1,3 +1,1 @@
 # minimal-public-assets
-
-# init
